@@ -2,7 +2,7 @@
 The current implementation will be extended to a distributed log aggregation and streaming service.
 
 Proposed System:
-<img width="1598" height="546" alt="architecture" src="https://github.com/user-attachments/assets/55ec6ab1-45a6-4d61-8ebc-8f51b9c92499" />
+<img width="1282" height="539" alt="sys_arch" src="https://github.com/user-attachments/assets/e3899375-1cf7-471c-a5ea-627ded658dab" />
 
 ---
 
